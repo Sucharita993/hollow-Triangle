@@ -28,3 +28,5 @@ A new line is started after every row
 ```java
  System.out.print("\n");
  ```
+OUTPUT
+<img width="674" alt="Screenshot 2021-05-18 080213" src="https://user-images.githubusercontent.com/84003518/118581528-69602300-b7af-11eb-9b64-453a18570e3c.png">
